@@ -1,0 +1,15 @@
+Installation d'un Notepad:
+winget install JackieLiu.NotepadsApp
+mettre Notepads défaut 
+
+Installation d'une taskbar 
+https://chrisandriessen.nl/taskbarx
+
+Mettre windows en Dark Mode 
+Settings -> visual look or we -> Transparency effects + Dark Modes
+
+Installation de PowerToys
+winget install Microsoft.PowerToys
+
+Installation de Windows terminal
+winget install Microsoft.WindowsTerminal
